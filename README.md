@@ -1,4 +1,4 @@
-2. Animated 3D planet
+Animated 3D planet
 
 Keys: Rotation 3D, SceneKit, 3D Object, Lottie
 
